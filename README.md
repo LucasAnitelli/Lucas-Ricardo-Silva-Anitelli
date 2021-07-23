@@ -44,4 +44,4 @@ Foi utilizado as seguintes ferramentas nesse projeto:
 
 Este projeto está sob a licença (MIT License) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
 
-Feito por [Lucas Anitell](https://github.com/LucasAnitelli) 😊
+Feito por [Lucas Anitelli](https://github.com/LucasAnitelli) 😊
